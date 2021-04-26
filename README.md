@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @delvalj
+- 👋 Hi, I’m Joaquin
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning SQL Database
 - 💞️ I’m looking to collaborate on your project!
