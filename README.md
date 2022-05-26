@@ -5,7 +5,7 @@
  ### More Information About Me
 ```javascript
 const Joaquin = {
-    code: ["HTML", "CSS", "Javascript", "SQL", "JAVA"],
+    code: ["HTML", "CSS", "Javascript", "SQL", "Node.js"],
     askMeAbout: ["Web Dev", "Web Design" "Tech", "Music", "Football"],
     technologies: {
         frontEnd: {
