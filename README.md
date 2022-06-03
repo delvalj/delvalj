@@ -1,28 +1,16 @@
  ### Hey There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
  
- My name is Joaquin del Val and i'm a Front End Developer from Córdoba, Argentina. I started self-taught way and now I'm taking a Vue.Js course in Coderhouse.
+ My name is Joaquin del Val and i'm a Full Stack Developer from Córdoba, Argentina.
   
  ### More Information About Me
-```javascript
-const Joaquin = {
-    code: ["HTML", "CSS", "Javascript", "SQL", "Node.js"],
-    askMeAbout: ["Web Dev", "Web Design" "Tech", "Music", "Football"],
-    technologies: {
-        frontEnd: {
-          languages: ["HTML5", "CSS3", "Javascript ES6"],
-          frameworks: ["Vue.js 2", "Vue.js 3"],
-        },
-  
-        backEnd: {
-            languages: ["Java"],
-        },
-        databases: ["MySql"],
-        misc: ["Firebase"],
-        deployement: ["Firebase", "Heroku"],
-    },
-    architecture: ["Web ", "Web applications", "Single page applications (SPA)"],
-    currentFocus: "Building Web Applications, web pages and SPA with Vue.js",
-};
+```
+I’m a Full Stack Developer from Córdoba, Argentina.
+
+Html | CSS | Javascript | Vue.js
+Node.js | MongoDB| SQL ( MySQL| PostgreSQL) | Typescript 
+
+If you want to get in touch: 
+
 ```
 
 ### If you want to get in touch you can do it through: 
