@@ -9,8 +9,6 @@ I’m a Full Stack Developer from Córdoba, Argentina.
 Html | CSS | Javascript | Vue.js
 Node.js | MongoDB| SQL ( MySQL| PostgreSQL) | Typescript 
 
-If you want to get in touch: 
-
 ```
 
 ### If you want to get in touch you can do it through: 
