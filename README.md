@@ -1,15 +1,9 @@
-I’m a Full Stack Developer from Córdoba, Argentina.
+**Full Stack Developer **
 
-Html | CSS | Javascript | Vue.js
+_Backend_
 Node.js | MongoDB | MySQL | Express.js| 
 
-If you want to get in touch: 
-
-📞WhatsApp: (+54) 9 3513077921
+_Web Developer_
+Html | CSS | Javascript | Vue.js
 
 📧E-mail: delvaljoaquin@gmail.com
-
-💻LinkedIn: https://www.linkedin.com/in/joaquindelval-full-stack/
-
-📱https://joaquindelval.com/
-
