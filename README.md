@@ -2,7 +2,7 @@ Full Stack Developer
 
 _Backend_ 
 
-Node.js | MongoDB | MySQL | Express.js| 
+Node.js | MongoDB | MySQL | Express.js 
 
 _Web Developer_
 
